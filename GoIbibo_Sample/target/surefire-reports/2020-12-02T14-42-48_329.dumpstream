@@ -1,0 +1,4 @@
+# Created at 2020-12-02T14:42:49.623
+Boot Manifest-JAR contains absolute paths in classpath 'G:\Eclipse for selenium\GoIbibo_Sample\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
